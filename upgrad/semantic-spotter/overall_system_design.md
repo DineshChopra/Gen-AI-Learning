@@ -1,7 +1,7 @@
 # System Design of Semantic Spotter
 
 High level system design is given below:
-[System Design](./system_design.png)
+![System Design](./system_design.png)
 
 To resolve this problem Complete approach is divided into 4 parts:
 
