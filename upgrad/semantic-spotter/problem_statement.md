@@ -14,7 +14,7 @@ Through this project, students will gain hands-on experience in
 deploying advanced natural language processing models to tackle real-world 
 challenges in document retrieval and question answering within the insurance domain.
 
-## Why LangChain is an ideal framework ?
+## Why LangChain is an ideal framework?
 
 
 LangChain is an ideal framework for resolving a Retrieval Augmented Generation (RAG) system due to several key factors:
