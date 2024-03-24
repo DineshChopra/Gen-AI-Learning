@@ -1,18 +1,11 @@
 # Problem Statement: Build a RAG System by using LangChain or LLaMA Index
 
-The assignment aims to develop a robust generative search system, 
-utilizing the principles of Retrieval Augmented Generation (RAG), 
-to effectively address inquiries from diverse policy documents. 
+The assignment aims to develop a robust generative search system, utilizing the principles of Retrieval Augmented Generation (RAG), to effectively address inquiries from diverse policy documents. 
 
-The system will leverage either LangChain or LlamaIndex frameworks 
-to facilitate the creation of a comprehensive generative search application. 
-The key objectives include implementing semantic search techniques, 
-integrating re-ranking mechanisms, and optimizing caching strategies 
+The system will leverage either LangChain or LlamaIndex frameworks to facilitate the creation of a comprehensive generative search application. The key objectives include implementing semantic search techniques, integrating re-ranking mechanisms, and optimizing caching strategies 
 to minimize latency and enhance the accuracy of responses. 
 
-Through this project, students will gain hands-on experience in 
-deploying advanced natural language processing models to tackle real-world 
-challenges in document retrieval and question answering within the insurance domain.
+Through this project, students will gain hands-on experience in deploying advanced natural language processing models to tackle real-world challenges in document retrieval and question answering within the insurance domain.
 
 ## Why LangChain is an ideal framework?
 
